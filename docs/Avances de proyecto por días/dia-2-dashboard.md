@@ -1,7 +1,10 @@
 ## Qué es un Dashboard
   > Una pantalla que se actualiza sola y te dice “todo sigue normal” o “aquí algo se está saliendo de lo común”.
   > Un dashboard es un tablero de alertas visuales para no tener que buscar a ciegas todo el día.
-  >Funciones concretas:
+  
+
+
+## Funciones concretas:
 
      1 Visibilidad inmediata
        El SOC ve en segundos si algo se está desviando de lo normal: picos de errores, logins fallidos, tráfico raro, hosts ruidosos.
