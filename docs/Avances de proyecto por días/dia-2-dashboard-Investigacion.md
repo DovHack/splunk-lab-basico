@@ -31,6 +31,8 @@
   1. Ir a Search & Reporting
      Este es el único lugar donde se crean búsquedas reales.
 
+---------------------------
+
   2. Hacer una búsqueda simple
      Ejemplo genérico:
 
@@ -39,40 +41,51 @@
 
      No importa el contenido todavía. La idea es ver resultados.
 
+-------------------------------------------
+
   3. Ajustar el rango de tiempo
      Arriba a la derecha:
 
-     Últimos 15 minutos o 24 horas
-     El dashboard siempre depende del tiempo seleccionado.
+     >Últimos 15 minutos o 24 horas
+       El dashboard siempre depende del tiempo seleccionado.
+
+------------------------------------------
 
   4. Convertir la búsqueda en panel
      Arriba a la derecha:
 
-     Click en Save As
+     >Click en Save As
 
-     Elegir Dashboard
+     >Elegir Dashboard
+
+------------------------------------------
 
   5. Crear dashboard
 
-     Nombre: algo claro (ej. SOC - Pruebas Autenticación)
+     >Nombre: algo claro (ej. SOC - Pruebas Autenticación)
 
-     Descripción: qué muestra
+     >Descripción: qué muestra
 
-     Tipo: Classic Dashboard (más simple para aprender)
+     >Tipo: Classic Dashboard (más simple para aprender)
 
-     Permisos: Private (por ahora)
+     >Permisos: Private (por ahora)
+
+----------------------------------------
 
   6. Elegir visualización
      Splunk te pide cómo mostrarlo:
 
-     Tabla (recomendado al inicio)
+     >Tabla (recomendado al inicio)
 
-     Barra
+     >Barra
 
-     Línea
+     >Línea
 
+------------------------------------------
 
   7. Guardar
+
+------------------------------------------
 
 Los dashboards en Splunk son paneles que muestran resultados de búsquedas guardadas de forma visual y fácil de entender. Se usan para ver rápidamente qué está pasando en los sistemas, sin necesidad de revisar logs uno por uno. Cada panel representa una búsqueda y se actualiza según el tiempo seleccionado.
 
